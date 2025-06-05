@@ -18,13 +18,6 @@ This is a simple and responsive **Todo List application** built with **React.js*
 - ❌ Delete tasks
 - 📱 Fully responsive layout using Tailwind
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/react-todo-app.git
 
 ## 🌐 Live Demo
 
