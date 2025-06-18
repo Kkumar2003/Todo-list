@@ -23,8 +23,7 @@ This is a simple and responsive **Todo List application** built with **React.js*
 
 You can try out the live version of this Todo List app here:
 
-[👉 View Live Demo](todo-list-psi-pearl.vercel.app)
-
+[👉 View Live Demo] (todo-list-psi-pearl.vercel.app)
 ## 📸 Screenshot
 
 ![Screenshot 2025-06-05 121149](https://github.com/user-attachments/assets/0aa7a6a4-03c9-4a83-99d1-f7c979ee8a41)
